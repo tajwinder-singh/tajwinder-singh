@@ -13,4 +13,5 @@ The full governance infrastructure remains private and is delivered as a managed
   
 ## Architecture Overview
 
-![Architecture Overview](https://github.com/user-attachments/assets/36af55a4-7d63-4c76-a195-267e0275283e)
+![file_00000000f1d872089b3e7afb90074d47-04](https://github.com/user-attachments/assets/996c63d7-2a5c-411e-bd92-81bf63529a54)
+
